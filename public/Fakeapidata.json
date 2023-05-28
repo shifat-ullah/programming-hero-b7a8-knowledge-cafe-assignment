@@ -1,0 +1,38 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Shifat Ullah",
+        "title": "How to get your first job as a self-taught programmer",
+        "time": 12,
+        "img": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1685289361~exp=1685289961~hmac=77f86e951967d2719e142b973ac2e98ff1c5c8f7918af72bbbc97ac51cfaf1f1",
+        "photo": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=740&t=st=1685293724~exp=1685294324~hmac=04d759478f1fd61d0ae3b0475796826767ca9f3a77efe448d62e8acb34471166"
+        
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6erer",
+        "name": "Nobel Mia",
+        "title": "7 Tips and Tricks to Learn Programming Faster",
+        "time": 8,
+        "img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1685289365~exp=1685289965~hmac=163786100614d47a1465d888d64dcf04c5be22f384457db10c091eb2fc2dbabb",
+        "photo": "https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?w=740&t=st=1685293728~exp=1685294328~hmac=42e56654d729d654b344bb916ba31fdb3fabc9988385c5ba8d36ffa39cfaa8d3"
+        
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b36234ead",
+        "name": "Robin Ali",
+        "title": "How to Start Learning Computer Programming",
+        "time": 9,
+        "img": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=740&t=st=1685289376~exp=1685289976~hmac=90b43bd1b61034688278a91cc86947f7822694efc362a02ea97f8c2a910976c1",
+        "photo": "https://img.freepik.com/free-photo/man-isolated-showing-emotions-end-gestures_1303-30095.jpg?w=740&t=st=1685293735~exp=1685294335~hmac=e086289bf8fd264e85db88f34f6fe2913c79f12ef4ae18837134661c0ef5905a"
+        
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77bvfvd6ead",
+        "name": "Asif Mahmud",
+        "title": "How to Code – Coding for Beginners and How to Learn",
+        "time": 10,
+        "img": "https://img.freepik.com/free-vector/app-development-concept-with-programming-languages_23-2148688949.jpg?w=740&t=st=1685289383~exp=1685289983~hmac=cc09302b482d1a2a1a6ceadd728400ec27b2a18418950bd39fba02ce04181502",
+        "photo": "https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129417.jpg?w=740&t=st=1685293738~exp=1685294338~hmac=05c008c88115caded588ecff4c780f2bfc2c540232b7dac98418394ee62e8401"
+        
+    }
+]
