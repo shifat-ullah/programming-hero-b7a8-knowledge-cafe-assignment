@@ -20,7 +20,8 @@ const Product = () => {
            </div>
 
             <div>
-                <h2>Spent time on read : 177 min</h2>
+                <p className='text-2xl '>Bookmarked Blogs :</p>
+                <h2 className='text-1xl '>Spent time on read : 177 min</h2>
             </div>
         </div>
 
