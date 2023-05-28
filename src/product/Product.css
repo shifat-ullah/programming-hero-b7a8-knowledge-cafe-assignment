@@ -1,0 +1,14 @@
+.main-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 1202px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.product-container{
+    display: grid;
+    width: 886px;
+    gap: 15px
+}
