@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 1202px;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-right: 100px;
     margin-top: 50px;
 }
@@ -11,4 +11,11 @@
     display: grid;
     width: 886px;
     gap: 15px
+}
+
+
+.card2 {
+    width: 337px;
+    margin-left: 0;
+    margin-right: 0;
 }

@@ -10,8 +10,10 @@ import './Showdata.css';
 
 const Showdata = (props) => {
 
-    const{img, name, photo, title ,time}=props.product;
-    console.log(props)
+    const{img, name, photo, title ,readTime}=props.product;
+    const Eventhandler =props.Eventhandler;
+    const totaltime =props.totaltime;
+
     return (
         <div>
             <div className=''>
@@ -26,13 +28,15 @@ const Showdata = (props) => {
                         </div>
 
                         <div>
-                            <p>{time} min read <FontAwesomeIcon  icon={faBookmark} /></p>
+                            <p>{readTime} min read
+                             <FontAwesomeIcon onClick={()=>Eventhandler(props.product)} icon={faBookmark} /></p>
                         </div>
                     </div>
                  </div>
                  <h1 className='mt-3 font-bold heading'>{title}</h1>
                  <br />
-                 <a className='mt-5' href=""><u>Mark as read</u></a>
+                 {/* <a className='mt-5 cursor-pointer'  onClick={()=> Makeread(time)}><u>Mark as read</u></a> */}
+                 <a className='mt-5 cursor-pointer'  onClick={()=> totaltime(readTime)}><u>Mark as read</u></a>
             </div>
 
         </div>
