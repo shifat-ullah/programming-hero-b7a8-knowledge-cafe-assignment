@@ -1,8 +1,19 @@
 .header{
-    width: 1200px;
+    
+    display: grid;
+    grid-template-columns: 15fr 1fr;
+    width: 1202px;
     margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 20px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+
+@media only screen and (max-width: 600px){
+    .header{
+        display: grid;
+    grid-template-columns: 1fr ;
+    }
 }
 
 .header-img{

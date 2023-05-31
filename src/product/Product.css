@@ -1,21 +1,36 @@
 .main-section{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
     width: 1202px;
     margin-left: 50px;
     margin-right: 100px;
     margin-top: 50px;
+
+}
+
+@media only screen and (max-width: 600px){
+    .main-section{
+        display: grid;
+    grid-template-columns: 1fr ;
+    }
 }
 
 .product-container{
     display: grid;
     width: 886px;
-    gap: 15px
+    
+}
+
+@media only screen and (max-width: 600px){
+    .product-container{
+        display: grid;
+    grid-template-columns: 1fr ;
+    }
 }
 
 
 .card2 {
     width: 337px;
-    margin-left: 0;
-    margin-right: 0;
+    background-color: #f3f3f3;
+    
 }

@@ -17,7 +17,7 @@ const Showdata = (props) => {
     return (
         <div>
             <div className=''>
-                 <img className='rounded' src={img} alt="" />
+                 <img className='rounded mt-4' src={img} alt="" />
 
                  <div className='flex mt-5'>
                     <img className='photo rounded-full' src={photo} alt="" />
@@ -36,7 +36,7 @@ const Showdata = (props) => {
                  <h1 className='mt-3 font-bold heading'>{title}</h1>
                  <br />
                  {/* <a className='mt-5 cursor-pointer'  onClick={()=> Makeread(time)}><u>Mark as read</u></a> */}
-                 <a className='mt-5 cursor-pointer'  onClick={()=> totaltime(readTime)}><u>Mark as read</u></a>
+                 <a className='mt-5 cursor-pointer '  onClick={()=> totaltime(readTime)}><u className='mb-5'>Mark as read</u></a>
             </div>
 
         </div>
