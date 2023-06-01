@@ -9,7 +9,7 @@ const Header = () => {
             <h1 className='text-5xl'>Knowledge Cafe</h1>
             </div>
             <div>
-            <img className='header-img rounded-full' src="../../public/img/Shifat ullah.JPG" alt="" />
+            <img className='header-img rounded-full' src="https://i.ibb.co/sm535t6/IMG-9562.jpg" alt="" />
             
             </div>
         </div>
